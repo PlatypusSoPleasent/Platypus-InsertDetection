@@ -23,9 +23,8 @@ A **FiveM logging system** that detects when players press the "Insert" key, com
 
 ## Example Log:
 
-- **Player ID**: 12345
-- **Player Position**: X: 100, Y: 200, Z: 300
-- **Snapshot**: [Link to Snapshot]
+![INSERT](https://github.com/user-attachments/assets/8636bbe7-fbc4-4543-8345-9b3c43964dbb)
+
 
 ## Disclaimer
 
