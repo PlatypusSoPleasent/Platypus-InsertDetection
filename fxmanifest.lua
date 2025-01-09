@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-author 'OL'
+author 'platypus'
 game 'gta5'
 
 
