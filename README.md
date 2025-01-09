@@ -7,9 +7,9 @@ Fivem log system that detects when a player has pressed Insert
 - Player Position  
 - Live Snapshot
 
-# WIP status:
+# DISCLA status:
 
-- Pls, note this project is a work in progress and is my first upload please bare with this kook.
+- Pls, note this project is my first upload please go easy on this kook LOL.
 
 ## Usage
 
