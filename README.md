@@ -1,24 +1,47 @@
 # Platypus-InsertDetection
-Fivem log system that detects when a player has pressed Insert
+
+A **FiveM logging system** that detects when players press the "Insert" key, commonly used by cheaters to open cheat menus. This system helps administrators track potential cheaters and suspicious behavior on the server.
 
 ## Features
 
-- Player ID 
-- Player Position  
-- Live Snapshot
-
-# Disclaimer :
-
-- Pls, note this project is my first upload please go easy on this kook LOL.
+- **Player ID**: Logs the player's unique identifier when the Insert key is pressed.
+- **Player Position**: Logs the player's in-game position at the moment the Insert key is pressed.
+- **Live Snapshot**: Captures a screenshot or visual snapshot of the player when the Insert key is pressed.
 
 ## Usage
 
-- When Insert is pressed a log is sent to the disired discord webhook
-- Menu title and color can be 
+- **Detection**: When the Insert key is pressed, a log is sent to a configured **Discord webhook**. This allows server admins to monitor potential cheat menu usage in real-time.
+- **Customization**: The menu title and color can be easily customized to suit your preferences.
 
-## Previews
+## Installation
 
-## installation
+1. Download or clone the repository.
+2. Add the script to your **FiveM server** resources folder.
+3. Configure the **Discord webhook** in the script to send logs to your server's Discord channel.
+4. Customize the menu title and color if desired.
+5. Restart the server, and the system will begin logging Insert key presses.
 
-# step 1: 
+## Example Log:
+
+- **Player ID**: 12345
+- **Player Position**: X: 100, Y: 200, Z: 300
+- **Snapshot**: [Link to Snapshot]
+
+## Disclaimer
+
+Please note that this is my first upload to GitHub, so please go easy on the feedback. 😊
+
+---
+
+### Contributions
+
+Feel free to fork the repository, open issues, or submit pull requests if you have any improvements or suggestions!
+
+---
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
