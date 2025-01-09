@@ -3,7 +3,7 @@ author 'platypus'
 game 'gta5'
 
 
-description 'ANTI'
+description 'Insert Detection Log'
 version '1.0.0'
 
 shared_script 'config.lua'
