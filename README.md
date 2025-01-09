@@ -6,7 +6,6 @@ Fivem log system that detects when a player has pressed Insert
 - Player ID 
 - Player Position  
 - Live Snapshot
-- ...
 
 # WIP status:
 
